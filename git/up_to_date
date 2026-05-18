@@ -1,0 +1,4 @@
+Git add .
+Git push -u origin main
+git commit -m "Main"
+git checkout main
